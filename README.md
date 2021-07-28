@@ -1,4 +1,4 @@
-# test
+# vue-vuex-registration-login-example
 
 ## Project setup
 ```
